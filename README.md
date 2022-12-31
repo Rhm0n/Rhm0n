@@ -7,7 +7,7 @@ Hello!
  ## 🍷 Technologies I use
  <img src="https://skillicons.dev/icons?i=ts,js,html,css,bootstrap,tailwind,nodejs,express,svelte,mongodb,react,nextjs,nuxtjs,vue,figma,ps,python,django,vscode,atom&theme=dark" />
 </div>
- - (I don't know much about Django.)
+ -  Hey! (I don't know much about Django.)
  
 ## ✨ My social media accounts
 <div>
