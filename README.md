@@ -5,7 +5,7 @@ Hello Developer!
  - 📧 Email : eldarlirehman2011@gmail.com (It's an old account, but if you're new, I don't plan to open it.)
 
  ## 🍷 Technologies I use
- <img src="https://skillicons.dev/icons?i=ts,js,html,css,bootstrap,tailwind,nodejs,express,svelte,mongodb,react,nextjs,nuxtjs,vue,figma,ps,python,django,vscode,atom&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,nodejs,express,svelte,mongodb,react,nextjs,nuxtjs,vue,figma,ps,python,django,vscode,atom,ts,deno&theme=dark" />
 </div>
  -  Hey! (I don't know much about Django.)
  
